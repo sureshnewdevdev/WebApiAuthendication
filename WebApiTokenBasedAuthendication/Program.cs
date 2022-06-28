@@ -1,6 +1,6 @@
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-
+// Comments
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
