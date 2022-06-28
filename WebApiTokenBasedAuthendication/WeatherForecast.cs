@@ -1,5 +1,8 @@
 namespace WebApiTokenBasedAuthendication
 {
+    /// <summary>
+    /// This is for manage weather forcast
+    /// </summary>
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
